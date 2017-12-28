@@ -15,12 +15,17 @@ class ViewController: UIViewController, customTipDelegate{
     @IBOutlet weak var billField: UITextField!
     @IBOutlet weak var tipArray: UISegmentedControl!
     @IBOutlet weak var customTipArray: UISegmentedControl!
+    @IBOutlet weak var miniView: UIView!
+    @IBOutlet var bigView: UIView!
   
     var customTipData:Double = 0.0 //will save the numerical value of the custom tip given by user
     
     override func viewDidLoad() {
         super.viewDidLoad()
         billField.becomeFirstResponder()
+        //miniView.setGradientBackground(colorOne: Colors.blue, colorTwo: Colors.white)
+        bigView.setGradientBackground(colorOne: Colors.blue, colorTwo: Colors.green)
+        //billField.setGradientBackground(colorOne: Colors.darkGrey, colorTwo: Colors.lightGrey)
     }
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(true)

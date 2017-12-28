@@ -25,8 +25,8 @@ class SettingsViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        view.setGradientBackground(colorOne: Colors.white, colorTwo: Colors.green)
-        myButton.setGradientBackground(colorOne: Colors.green, colorTwo: Colors.darkGrey)
+        view.setGradientBackground(colorOne: Colors.blue, colorTwo: Colors.green)
+        //myButton.setGradientBackground(colorOne: Colors.green, colorTwo: Colors.blue)
         customTipField.becomeFirstResponder()
 
         // Do any additional setup after loading the view.

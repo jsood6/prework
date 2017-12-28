@@ -29,8 +29,6 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-<div style="width:100%;height:0;padding-bottom:185%;position:relative;"><iframe src="https://giphy.com/embed/3ohc0U3pq2APzYcbcI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3ohc0U3pq2APzYcbcI">via GIPHY</a></p>
-
 
 <a href="https://imgflip.com/gif/21s5u7"><img src="https://i.imgflip.com/21s5u7.gif" title="made at imgflip.com"/></a>
 
@@ -41,11 +39,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I think that the most challenging part about this project was figuring out how to send/save data across different ViewControllers.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Jigyasaa Sood]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

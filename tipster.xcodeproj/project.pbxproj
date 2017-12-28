@@ -14,6 +14,9 @@
 		4490EE611FF225B6007325AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4490EE5F1FF225B6007325AF /* LaunchScreen.storyboard */; };
 		4490EE6C1FF225B6007325AF /* tipsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490EE6B1FF225B6007325AF /* tipsterTests.swift */; };
 		4490EE771FF225B6007325AF /* tipsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490EE761FF225B6007325AF /* tipsterUITests.swift */; };
+		4490EE851FF31807007325AF /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490EE841FF31807007325AF /* SettingsViewController.swift */; };
+		4490EE871FF4E2D5007325AF /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490EE861FF4E2D5007325AF /* UIColor+Extension.swift */; };
+		4490EE891FF4E6CE007325AF /* UIColorConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4490EE881FF4E6CE007325AF /* UIColorConstants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		4490EE721FF225B6007325AF /* tipsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4490EE761FF225B6007325AF /* tipsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipsterUITests.swift; sourceTree = "<group>"; };
 		4490EE781FF225B6007325AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4490EE841FF31807007325AF /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		4490EE861FF4E2D5007325AF /* UIColor+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		4490EE881FF4E6CE007325AF /* UIColorConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColorConstants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +106,9 @@
 				4490EE561FF225B6007325AF /* AppDelegate.swift */,
 				4490EE581FF225B6007325AF /* ViewController.swift */,
 				4490EE5A1FF225B6007325AF /* Main.storyboard */,
+				4490EE861FF4E2D5007325AF /* UIColor+Extension.swift */,
+				4490EE841FF31807007325AF /* SettingsViewController.swift */,
+				4490EE881FF4E6CE007325AF /* UIColorConstants.swift */,
 				4490EE5D1FF225B6007325AF /* Assets.xcassets */,
 				4490EE5F1FF225B6007325AF /* LaunchScreen.storyboard */,
 				4490EE621FF225B6007325AF /* Info.plist */,
@@ -261,6 +270,9 @@
 			files = (
 				4490EE591FF225B6007325AF /* ViewController.swift in Sources */,
 				4490EE571FF225B6007325AF /* AppDelegate.swift in Sources */,
+				4490EE851FF31807007325AF /* SettingsViewController.swift in Sources */,
+				4490EE891FF4E6CE007325AF /* UIColorConstants.swift in Sources */,
+				4490EE871FF4E2D5007325AF /* UIColor+Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

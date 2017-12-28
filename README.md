@@ -31,6 +31,9 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 https://mail.google.com/mail/u/0/?ui=2&ik=cf564fbe62&view=fimg&th=1609cc02bfd836af&attid=0.1.1&disp=emb&attbid=ANGjdJ--vuyvnbPawafgAZvfgMyewbfNkTTMZitll6UzTKAEcbtEJ1v2khjccc2PKm9P1zlphULD3gfViMZBm9RkSfDZqSSv9zS2r6Dl6Sqo1Sg2v2ETeYkTaTSgaV4&sz=w746-h1378&ats=1514458336838&rm=1609cc02bfd836af&zw&atsh=1
 
+<a href="https://imgflip.com/gif/21s5u7"><img src="https://i.imgflip.com/21s5u7.gif" title="made at imgflip.com"/></a>
+
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).

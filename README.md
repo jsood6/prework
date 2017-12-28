@@ -4,7 +4,7 @@ tipster is a tip calculator application for iOS.
 
 Submitted by: Jigyasaa(JJ) Sood
 
-Time spent: ***X*** hours spent in total
+Time spent: 50 hours spent in total
 
 ## User Stories
 
@@ -21,7 +21,10 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+- added a custom tip amount textfield on the settings page so that the user can input any amount of tip they want(for exmaple, 23.78% or   34%) other than the basic default ones listed on the main app page. The updated custom tip will be shown on the main app page. I added   an update button the settings page that updates the data of the custom tip. 
+- added a default tip setting on the main page
+- added gradient color to the background and buttons
 
 ## Video Walkthrough 
 

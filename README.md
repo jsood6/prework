@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 <a href="https://imgflip.com/gif/21s5u7"><img src="https://i.imgflip.com/21s5u7.gif" title="made at imgflip.com"/></a>
 
 
-<img src='https://giphy.com/gifs/xULW8IazftfBl8zVU4/html5' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://gph.is/2EgCwQK' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
